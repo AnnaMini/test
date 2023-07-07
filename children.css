@@ -1,0 +1,19 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url(3.jpg);
+}
+img{
+    width: 100px;
+    height: 100px;
+}
+pre{
+    font-size: 18px;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+}
+a:hover{
+    color: #B56699;
+}
